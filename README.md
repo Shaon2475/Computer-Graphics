@@ -133,7 +133,7 @@ Cloud moving, Boat moving from both sides, car movement, Rain fall, day-night tr
 
 | Member Name | Percentage of Contribution |
 | --- | --- |
-| Md. Salauddin Shaon | 25% |
+| Md. Salauddin Shaon | 100% |
 
 ---
 
